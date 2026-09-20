@@ -1,4 +1,4 @@
-# AI for Communication & Marketing — Customer Analytics
+# AI for Communication & Marketing, Customer Analytics
 
 A collection of three data-driven marketing projects exploring **customer segmentation, churn prediction, and customer lifetime value (CLTV)** through statistical analysis, machine learning, and actionable communication strategies. The projects follow the customer lifecycle from understanding **who customers are**, to predicting **who may leave**, and finally estimating **which customers are worth retaining and investing in**.
 
